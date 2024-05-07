@@ -1,0 +1,10 @@
+mkdir nombreCarpeta --> Crear nueva carpeta, sin confirmación de la terminal
+mkdir -v nombreCarpeta --> Crear nueva carpeta, con confirmación de la terminal
+mkdir -v "nombre Carpeta con espacios" Crear nueva carpeta, con confirmación de la terminal, con nombre con espacios
+pwd --> Ver ubicación de la carpeta en la que está la terminal
+cd nombreCarpetaOArchivo / cd .. --> Cambiar de ubicación (cd "carpeta o arcchivo sig." / cd .. (para retroceder carpetas o archivos))
+touch nombreArchivo.tipo --> Crear archivo (especificar tipo(.txt o .js o .html, etc))
+rm nombreArchivo.tipo --> Eliminar archivo (especificar tipo)
+rm -r nombreCarpeta --> Eliminar carpeta o directorio indicado
+help --> Lista de comandos
+[comando] --help --> Muestra opciones/argumentos para el comando
